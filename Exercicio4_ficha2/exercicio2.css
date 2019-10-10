@@ -1,0 +1,44 @@
+body{
+    width: 700px;
+    margin: auto;
+}
+
+header{
+    background: green;
+    color: white;
+    text-align: center;
+    height: 100px;
+    line-height: 100px;
+}
+
+header h1 {
+    margin: 0;
+}
+
+nav a {
+    background: green;
+    color: white;
+    font-family: monospace;
+    text-decoration: none;
+    font-size: 1.2em;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    width: 170px;
+    margin:  0 20pxp;
+    display: inline-block;
+
+
+nav{
+margin-top: 20px;
+
+
+    margin-div;
+}
+
+
+
+
+
+
+
